@@ -9,8 +9,14 @@ CATEGORIES = (
 )
 
 STATUS = (
-    ('active', 'Active'),
-    ('inactive', 'Inactive'),
+    ('pending', 'Pending'),
+    ('completed', 'Completed'),
+    ('failed', 'Failed'),
+)
+
+FREQUENCY = (
+    ('single', 'Single'),
+    ('multiple', 'Multiple'),
 )
 
 PLATFORM = (

@@ -25,3 +25,4 @@ celerybeat-schedule.bak
 celerybeat-schedule.dir
 logs/**
 mysite.log
+logs/
